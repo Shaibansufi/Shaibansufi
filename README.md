@@ -47,8 +47,10 @@ A powerful AI tool that checks answers, evaluates content, and provides smart sc
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shaiban-shaikh&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiban-shaikh&theme=tokyonight" />
+  <img width="48%" src="[https://github-readme-stats.vercel.app/api?username=shaiban-shaikh&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=Shaibansufi&show_icons=true&theme=tokyonight
+)" />
+  <img width="48%" src="[https://github-readme-streak-stats.herokuapp.com/?user=shaiban-shaikh&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=Shaibansufi&theme=tokyonight
+)" />
 </p>
 
 <p align="center">
