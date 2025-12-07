@@ -54,7 +54,8 @@ A powerful AI tool that checks answers, evaluates content, and provides smart sc
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiban-shaikh&layout=compact&theme=tokyonight" />
+  <img width="48%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=shaiban-shaikh&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaibansufi&layout=compact&theme=tokyonight
+)" />
 </p>
 
 ---
