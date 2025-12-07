@@ -79,7 +79,7 @@ A powerful AI tool that checks answers, evaluates content, and provides smart sc
 
 ## 📫 Reach Me  
 - **Email:** shaibanshaikh@example.com  
-- **LinkedIn:** (Add your link)  
+- **LinkedIn:** [(https://www.linkedin.com/in/shaikh-shaiban-641a71246/)]  
 - **Portfolio:** (Add link if you have one)
 
 ---
