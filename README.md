@@ -19,8 +19,15 @@
 ---
 
 ## 🔥 Live Projects  
-### 🧮 **Score-Smarts AI – Smart Checker & Analyzer**
-🔗 **Live:** https://score-smarts-ai.lovable.app/  
+### 🧮 **SmartMarket AI – Intelligent Supermarket System**  
+🔗 **Live:** [https://smart-ai-super-market.vercel.app/](https://smart-ai-super-market.vercel.app/)  
+A full AI-powered supermarket system with smart inventory, billing, payment, and automation, integrated with AI-driven recommendations for customers and business analytics for admins.  
+✔ Built using **MERN Stack + Supabase + AI/ML models**  
+✔ Seamless user experience with smart recommendations  
+✔ Real-time inventory & sales tracking  
+
+### 🧮 **Score-Smarts AI – Smart Checker & Analyzer**  
+🔗 **Live:** [https://score-smarts-ai.lovable.app/](https://score-smarts-ai.lovable.app/)  
 A powerful AI tool that checks answers, evaluates content, and provides smart scoring using custom AI workflows.  
 ✔ Built using **Lovable AI + MERN + Python AI logic**  
 ✔ Clean UI, fast processing, smart analytics  
@@ -47,15 +54,12 @@ A powerful AI tool that checks answers, evaluates content, and provides smart sc
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="[https://github-readme-stats.vercel.app/api?username=shaiban-shaikh&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=Shaibansufi&show_icons=true&theme=tokyonight
-)" />
-  <img width="48%" src="[https://github-readme-streak-stats.herokuapp.com/?user=shaiban-shaikh&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=Shaibansufi&theme=tokyonight
-)" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shaiban-shaikh&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiban-shaikh&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=shaiban-shaikh&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaibansufi&layout=compact&theme=tokyonight
-)" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiban-shaikh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -79,7 +83,7 @@ A powerful AI tool that checks answers, evaluates content, and provides smart sc
 
 ## 📫 Reach Me  
 - **Email:** shaibanshaikh@example.com  
-- **LinkedIn:** [(https://www.linkedin.com/in/shaikh-shaiban-641a71246/)]  
+- **LinkedIn:** [Shaiban Shaikh's LinkedIn](https://www.linkedin.com/in/shaikh-shaiban-641a71246/)  
 - **Portfolio:** (Add link if you have one)
 
 ---
