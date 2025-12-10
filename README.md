@@ -27,9 +27,9 @@ A full AI-powered supermarket system with smart inventory, billing, payment, and
 ✔ Real-time inventory & sales tracking  
 
 ### 🧮 **Score-Smarts AI – Smart Checker & Analyzer**  
-🔗 **Live:** [https://score-smarts-ai.lovable.app/](https://score-smarts-ai.lovable.app/)  
+🔗 **Live:** [https://www.engigenius.online/])  
 A powerful AI tool that checks answers, evaluates content, and provides smart scoring using custom AI workflows.  
-✔ Built using **Lovable AI + MERN + Python AI logic**  
+✔ Built using MERN + Python AI logic**  
 ✔ Clean UI, fast processing, smart analytics  
 
 ---
